@@ -2,3 +2,5 @@
 In this game you will move around the screen dodging the sad faces because they will make you sad.
 
 Once touched by a sad face the winow will close.
+
+final copy
