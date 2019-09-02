@@ -3,4 +3,10 @@ In this game you will move around the screen dodging the sad faces because they 
 
 Once touched by a sad face the winow will close.
 
+
+graphics
+
+done my changes
+
 final copy
+
